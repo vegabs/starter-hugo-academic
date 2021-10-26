@@ -27,6 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Signal Processing
+    tag: Signal Processing
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: VR/AR
+    tag: VR/AR
+  - name: Web Development
+    tag: Web Development
   - name: Deep Learning
     tag: Deep Learning
   - name: Other
