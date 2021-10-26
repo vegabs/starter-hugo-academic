@@ -1,7 +1,7 @@
 ---
 title: Gabriela Vega
 role: Electrical Engineering Student
-avatar_filename: gabriela_vega_python_web_desarrollo_arduino_estudiante_practicas.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include HCI, AI, Wearable Computing, IoT and AR/VR.
 interests:
   - HCI
