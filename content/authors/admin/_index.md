@@ -1,12 +1,14 @@
 ---
 title: Gabriela Vega
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Electrical Engineering Student
+avatar_filename: gabriela_vega_python_web_desarrollo_arduino_estudiante_practicas.jpg
+bio: My research interests include HCI, AI, Wearable Computing, IoT and AR/VR.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - HCI
+  - AI
+  - Wearable Computing
+  - IoT
+  - AR/VR
 social:
   - icon: envelope
     icon_pack: fas
