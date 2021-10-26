@@ -5,15 +5,17 @@ title: "An example conference paper"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Shuyi Sun
 - admin
-- Robert Ford
+- Denis Marcellin-Little
+- Katia Vega
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,15 +28,15 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Conference on Animal-Computer Interaction*
+publication_short: In *ACI*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Flexibility and stretching exercises for dogs are used to improve joint motion and alleviate limb pain. However, there is a lack of information in the effectiveness of these canine exercises when performed by dog owners and caregivers. Current solutions for measuring range of motion are not designed to be worn by dogs. In order to evaluate the position of a joint at any given time, the user, the human assisting the dog in the exercises, must hold a digital or analog device while performing the exercise without real-time feedback associated with the dog's breed or joint exercised. We propose WOOFlex: a wearable that assists in canine flexibility exercises that (1) is attached to the dog's limbs so as to not interfere with the exercise, (2) includes IMU sensors to measure the joint angle, and a web application to (1) provide real-time visual and audio feedback for assisting the user in not exceeding safe joint angle ranges, and (2) to store exercise session data to monitor the flexibility progress.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [HCI]
 
 # Display this page in the Featured widget?
 featured: true
