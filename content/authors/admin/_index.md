@@ -30,15 +30,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Exchange Student in Digital Entertainment Design Engineering
+      institution: Pontifical Bolivarian University – Colombia
+      year: 2021
+    - course: BEng in Electrical Engineering
+      institution: Peruvian University of Applied Sciences – Peru
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
