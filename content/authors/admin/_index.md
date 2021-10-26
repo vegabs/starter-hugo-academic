@@ -12,13 +12,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:gabriela@latinxinai.org
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/v_v_gab
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/vegabs
