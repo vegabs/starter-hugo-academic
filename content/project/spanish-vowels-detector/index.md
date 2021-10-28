@@ -18,3 +18,5 @@ image:
   caption: Detector's UI.
 ---
 An algorithm to detect all the spanish vowels (a, e, i, o & u) from audio signals using a Six-level wavelet decomposition tree. To detect the vowels, a comparison of the energies of the last frequency bands of the tree is carried out. Implemented using MATLAB and UI designed using GUIDE.
+
+⚙️ Tools: MATLAB
