@@ -1,7 +1,7 @@
 ---
 title: Crossy Play
 date: 2021-10-28T03:27:35.660Z
-summary: Play Crossy Road® with your body postures!
+summary: Play Crossy Road® with body postures!
 draft: false
 featured: false
 authors: []
