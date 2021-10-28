@@ -4,7 +4,10 @@ date: 2021-10-28T03:27:35.660Z
 summary: Play Crossy Road® with body postures!
 draft: false
 featured: false
-authors: []
+authors:
+  - admin
+  - Daniel Garcia
+  - Miguel Zuluaga
 tags:
   - Computer Vision
 links:
