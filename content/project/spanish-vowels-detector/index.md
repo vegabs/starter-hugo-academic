@@ -12,7 +12,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: https://raw.githubusercontent.com/vegabs/vowels-detection/main/vowel.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Detector's UI.
