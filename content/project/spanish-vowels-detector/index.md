@@ -4,7 +4,8 @@ date: 2021-10-28T03:49:06.426Z
 summary: An algorithm to detect vowels using a wavelet decomposition tree.
 draft: false
 featured: false
-authors: []
+authors:
+  - admin
 tags:
   - Signal Processing
 links:
