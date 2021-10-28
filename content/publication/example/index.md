@@ -27,10 +27,10 @@ author_notes:
   - ""
   - ""
   - ""
-publication: In *Eighth International Conference on Animal-Computer Interaction*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: In *Eighth International Conference on Animal-Computer Interaction — ACI 2021*
+summary: A wearable + web application to aid in canine flexibility activities.
+  The system uses different feedback modalities to help the human user to
+  perform the exercise correctly to aid the dog.
 url_dataset: ""
 url_project: ""
 publication_short: In *Eighth International Conference on Animal-Computer Interaction*
@@ -65,4 +65,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+For reference:
+- [ACI 2021 Conference Program](https://www.aciconf.org/conference-program)
+- [WOOFlex Project Demo](https://www.youtube.com/watch?v=iUYcwSncXDs)
