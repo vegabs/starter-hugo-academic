@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/vegabs
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IO Lab, UC Davis
+    url: http://iolab.ucdavis.edu/people.html
 education:
   courses:
     - course: Exchange Student in Digital Entertainment Design Engineering
@@ -37,12 +37,12 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello! 👋🏻 My name is Gabriela Vega, I’m an Electrical Engineering Undergraduate Student at [Peruvian University of Applied Sciences (UPC)](http://upc.edu.pe/), Lima, Peru. I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, Artificial Intelligence, AR/VR and Internet of Things.\
+Hello! 👋🏻 My name is Gabriela Vega, I’m an Electrical Engineering Undergraduate Student at [Peruvian University of Applied Sciences — UPC](http://upc.edu.pe/), Lima, Peru. I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, Artificial Intelligence, AR/VR and Internet of Things.\
 \
-Currently, I’m doing a research internship at the [Interactive Organisms Lab (UC Davis)](http://iolab.ucdavis.edu/people.html), advised by Professor [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) where I’m working on wearable for animals using IMU sensors.\
+Currently, I’m a Visiting Undergraduate Researcher at the [Interactive Organisms Lab — UC Davis](http://iolab.ucdavis.edu/people.html), advised by Professor [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) working on wearables for dogs using IMU sensors.\
 \
-I love to watch sci-fi movies, code and photography 📷. In my free time I like to learn new technologies, I consider myself a curious person and fast learner.\
+I love to watch sci-fi movies and photography 📷. In my free time I like to learn new technologies, I consider myself a curious person and fast learner.\
 \
 Feel free to reach me out!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
