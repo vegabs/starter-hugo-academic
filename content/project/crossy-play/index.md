@@ -1,8 +1,7 @@
 ---
 title: Crossy Play
 date: 2021-10-28T03:27:35.660Z
-summary: Crossy Play enable the user to play the Crossy Road® game with body
-  postures instead of using keyboard arrows or touches.
+summary: Play Crossy Road® with your body postures!
 draft: false
 featured: false
 authors: []
