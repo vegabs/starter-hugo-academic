@@ -20,7 +20,7 @@ links:
     icon: youtube
     url: https://youtu.be/dOxE043OIB8
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
