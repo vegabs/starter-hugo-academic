@@ -12,7 +12,7 @@ links:
   - name: Code
     url: https://github.com/vegabs/crossy-road
     icon_pack: fas
-    icon: github
+    icon: fa-github
 image:
   filename: featured
   focal_point: Smart
