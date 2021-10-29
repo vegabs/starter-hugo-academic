@@ -13,7 +13,7 @@ abstract: "Flexibility and stretching exercises for dogs are used to improve
   (1) provide real-time visual and audio feedback for assisting the user in not
   exceeding safe joint angle ranges, and (2) to store exercise session data to
   monitor the flexibility progress."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -44,8 +44,7 @@ tags:
   - Wearable
   - IMU
   - Joint
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
