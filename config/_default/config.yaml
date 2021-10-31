@@ -5,7 +5,7 @@
 
 title: Gabriela Vega # Website name
 baseurl: 'https://vegabs.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Made with ❤️ and lots of cups of cinnamon tea ☕!' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
