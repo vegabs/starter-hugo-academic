@@ -16,6 +16,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/v_v_gab
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/vegabs
