@@ -25,7 +25,7 @@ experience:
   - title: Undergraduate Visitor Researcher
     company: University of California, Davis
     company_url: 'http://iolab.ucdavis.edu/people.html'
-    company_logo: org-gc
+    company_logo: uc-davis
     location: California
     date_start: '2021-01-04'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Software Intern
     company: Business Analytics SAC
     company_url: 'https://www.analytics.pe/'
-    company_logo: org-x
+    company_logo: 
     location: Lima, Peru
     date_start: '2020-01-06'
     date_end: '2020-12-23'
