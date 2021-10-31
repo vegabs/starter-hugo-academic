@@ -38,7 +38,6 @@ experience:
   - title: Software Intern
     company: Business Analytics SAC
     company_url: 'https://www.analytics.pe/'
-    company_logo: 
     location: Lima, Peru
     date_start: '2020-01-06'
     date_end: '2020-12-23'
