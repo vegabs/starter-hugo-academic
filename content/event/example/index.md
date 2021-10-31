@@ -6,11 +6,11 @@ event_url: https://uist.acm.org/uist2021/
 
 location: Virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: Watch my 60 seconds Lightning Talk at UIST 2021!
 abstract: "UIST 2021 was the first time I attended this conference and my first time as a Student Volunteer! 🤩✨ I really enjoy the conference days and see really cool projects that inspire me. My [lightning talk](https://uist.acm.org/uist2021/lightningtalks.html#top) was presented in different paper sessions."
@@ -64,10 +64,11 @@ projects:
 Watch my lightning talk here: [https://youtu.be/Cx3UJB-6gI8](https://youtu.be/Cx3UJB-6gI8)
 {{% /callout %}}
 
-# Slides can be added in a few ways:
+<!-- # Slides can be added in a few ways:
 
-# - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the # talk file
-# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the # talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-# Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ -->
