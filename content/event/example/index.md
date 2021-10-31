@@ -31,7 +31,7 @@ tags: [HCI, UIST]
 featured: false
 
 image:
-  caption: 'Image credit: [**UIST Blog**](https://miro.medium.com/max/1400/1*ow_glGWRQdUIl_jLN-zEGA.jpeg)'
+  caption: 'Lightning Talks'
   focal_point: Right
 
 links:
@@ -41,7 +41,7 @@ links:
   url: https://twitter.com/v_v_gab
 url_code: ""
 url_pdf: ""
-url_slides: "https://youtu.be/Cx3UJB-6gI8"
+url_slides: ""
 url_video: "https://youtu.be/Cx3UJB-6gI8"
 
 # Markdown Slides (optional).
