@@ -9,6 +9,7 @@ interests:
   - Wearable Computing
   - IoT
   - AR/VR
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,14 +40,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello! 👋🏻 My name is Gabriela Vega, I’m an Electrical Engineering Undergraduate Student at [Peruvian University of Applied Sciences — UPC](http://upc.edu.pe/), Peru.
-
-I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, Artificial Intelligence, AR/VR and Internet of Things.\
+Hello 😊 I'm Gabriela Vega, I’m an Electrical Engineering Undergraduate Student at [Peruvian University of Applied Sciences — UPC](http://upc.edu.pe/), Peru. I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, Artificial Intelligence, AR/VR, Internet of Things and Computer Vision.\
 \
-Currently, I’m a Visiting Undergraduate Researcher at the [Interactive Organisms Lab — UC Davis](http://iolab.ucdavis.edu/people.html), advised by Professor [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) working on wearables for dogs using IMU sensors.\
+Currently, I’m a Visiting Undergraduate Researcher at the [Interactive Organisms Lab — UC Davis](http://iolab.ucdavis.edu/people.html), advised by Professor [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) working on wearables for dogs.\
 \
-I love to watch sci-fi movies and photography 📷. In my free time I like to learn new technologies, I consider myself a curious person and fast learner.\
-\
-Feel free to reach me out!
+I love to watch sci-fi movies and photography 📷. In my free time I like to learn new technologies, I'm curious and fast learner. Feel free to reach me out for projects and collaborations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
