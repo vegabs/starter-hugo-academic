@@ -5,7 +5,7 @@ name = "my_theme"
 light = true
 
 # Primary: todos los enlaces, bottones, iconos, etc
-primary = "#fda2c7"
+primary = "#c87296"
 
 # Menu
 # background del menu
@@ -15,7 +15,7 @@ menu_text = "#000000"
 # el elemento del menu que esta activo
 menu_text_active = "#c87296"
 # tu nombre: gabriela vega
-menu_title = "#fda2c7"
+menu_title = "#c87296"
 
 # Home sections: blanco y un poco gris
 home_section_odd = "rgb(255, 255, 255)"
