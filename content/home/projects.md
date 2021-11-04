@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Projects
-subtitle: ''
+subtitle: 'Under construction. More projects will be added soon.'
 
 content:
   # Page type to display. E.g. project.
