@@ -40,9 +40,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello 😊 I'm Gabriela Vega, I’m an Electrical Engineering Undergraduate Student at [Peruvian University of Applied Sciences — UPC](http://upc.edu.pe/), Peru. I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, Artificial Intelligence, AR/VR, Internet of Things and Computer Vision.\
+Hello 😊 It's Gabriela Vega, an Electrical Engineering Undergraduate Student. I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, Artificial Intelligence, AR/VR, Internet of Things and Computer Vision.\
 \
-Currently, I’m a Visiting Undergraduate Researcher at the [Interactive Organisms Lab — UC Davis](http://iolab.ucdavis.edu/people.html), advised by Professor [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) working on wearables for dogs.\
+Currently, I’m a Visiting Undergraduate Researcher at the [Interactive Organisms Lab — UC Davis](http://iolab.ucdavis.edu/people.html), advised by Professor [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) working on wearable computing and HCI.\
 \
 I love to watch sci-fi movies and photography 📷. In my free time I like to learn new technologies, I'm curious and fast learner. Feel free to reach me out for projects and collaborations.
 
