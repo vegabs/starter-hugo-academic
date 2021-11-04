@@ -36,7 +36,7 @@ url_project: ""
 publication_short: In *Eighth International Conference on Animal-Computer Interaction*
 url_source: ""
 url_video: ""
-title: "WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises"
+title: "[To Appear] WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises"
 doi: ""
 featured: true
 tags:
@@ -56,15 +56,6 @@ publishDate: 2021-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
 For reference:
 - [ACI 2021 Conference Program](https://www.aciconf.org/conference-program)
 - [WOOFlex Project Demo](https://www.youtube.com/watch?v=iUYcwSncXDs)
