@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://portal.neuromatchacademy.org/certificate/5aa54357-df8b-4b90-98d6-1ee9fe73c459
+  date_end: "2021-08-19"
+  date_start: "2021-08-02"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  organization: Neuromatch
+  organization_url: https://academy.neuromatch.io/
+  title: Deep Learning
+  url: "https://portal.neuromatchacademy.org/certificate/5aa54357-df8b-4b90-98d6-1ee9fe73c459"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
