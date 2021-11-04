@@ -46,4 +46,4 @@ Currently, I’m a Visiting Undergraduate Researcher at the [Interactive Organi
 \
 I love to watch sci-fi movies and photography 📷. In my free time I like to learn new technologies, I'm curious and fast learner. Feel free to reach me out for projects and collaborations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Gabriela_Vega_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
