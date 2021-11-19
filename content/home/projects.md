@@ -33,10 +33,12 @@ content:
     tag: Computer Vision
   - name: VR/AR
     tag: VR/AR
-  - name: Web Development
-    tag: Web Development
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Web & App Dev
+    tag: Web & App Dev
+  - name: Hardware
+    tag: Hardware
+  - name: AI
+    tag: AI
   - name: Other
     tag: Demo
 
