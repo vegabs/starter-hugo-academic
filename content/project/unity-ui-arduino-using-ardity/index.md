@@ -8,7 +8,15 @@ tags:
   - Hardware
 categories:
   - Hardware
-links: []
+links:
+  - icon_pack: fab
+    icon: github
+    name: Code
+    url: https://github.com/vegabs/ardity_protocols
+  - url: https://youtu.be/W-1GDfO6CGg
+    name: Video
+    icon_pack: fab
+    icon: youtube
 image:
   filename: featured
   focal_point: Smart
