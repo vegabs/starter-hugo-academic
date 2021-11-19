@@ -4,6 +4,11 @@ date: 2021-11-19T15:22:08.856Z
 summary: Receive data from sensors and control actuators using Unity and Arduino.
 draft: false
 featured: false
+tags:
+  - Hardware
+categories:
+  - Hardware
+links: []
 image:
   filename: featured
   focal_point: Smart
