@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: University of Auckland
+    company_url: 'http://empathiccomputing.org/team/gabriela-vega/'
+    location: Auckland
+    date_start: '2021-01-07'
+    date_end: ''
+    description: |2-
+      * Project: Streamlined Physiological Analysis Unity Plugin for Virtual Reality Development, supervised by Kunal Gupta and Nastaran Saffaryazdi.
+      
   - title: Undergraduate Visitor Researcher
     company: University of California, Davis
     company_url: 'http://iolab.ucdavis.edu/people.html'
     company_logo: uc-davis
     location: California
     date_start: '2021-01-04'
-    date_end: ''
+    date_end: '2021-12-20'
     description: |2-
         * Interactive Organisms Lab. Advised by Prof. Katia Canepa Vega.
         * Developed and prototyped a canine joint angle measurement wearable using 9-DOF Inertial Measurement Units (IMU).
