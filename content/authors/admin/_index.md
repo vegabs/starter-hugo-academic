@@ -1,8 +1,9 @@
 ---
 title: Gabriela Vega
-role: Electrical Engineering Student
-avatar_filename: avatar.jpg
-bio: My research interests include HCI, AI, Wearable Computing, IoT and AR/VR.
+role: Research Assistant @ MPI Informatics
+avatar_filename: xjh1blob_400x400.jpg
+bio: My research interests include HCI, AI for wellbeing, Wearable Computing,
+  IoT and AR.
 interests:
   - HCI
   - Wearables
@@ -13,10 +14,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:gabriela@latinxinai.org
+    link: mailto:gvega@mpi-inf.mpg.de
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/v_v_gab
+    link: https://x.com/gavyvy_
     display:
       header: true
   - icon: github
@@ -26,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/vegabs
 organizations:
-  - name: Empathic Computing Lab
-    url: http://empathiccomputing.org/team/gabriela-vega/
+  - name: Max Planck Institute for Informatics
+    url: https://sensint.mpi-inf.mpg.de/
 education:
   courses:
     - course: Exchange Student in Digital Entertainment Design Engineering
@@ -40,10 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello 😊 It's Gabriela Vega, an Electrical Engineering undergrad. I’m interested in the interseccion of **technology + design** in the research areas of Human-Computer Interaction, wearables, AR/VR, IoT and Computer Vision for human augmentation and well-being.\
-\
-Currently, I’m an Intern at [Emphatic Computing Lab — University of Auckland](http://empathiccomputing.org/team/gabriela-vega/) and I'm a former Visiting Undergrad Researcher at the [Interactive Organisms Lab — UC Davis](http://iolab.ucdavis.edu/people.html), advised by [Katia Vega](https://scholar.google.com/citations?user=No4mGbsAAAAJ&hl=es) working on wearable computing and HCI.
+Hello 😊 I’m Gabriela Vega, a Master’s student in Media Informatics at Saarland University in Germany and a research assistant in the [Sensorimotor Interaction Group at the Max Planck Institute for Informatics](https://sensint.mpi-inf.mpg.de/), where I work on haptics and agency. Previously, I collaborated with Audrey Girouard and Karen Cochrane at [Carleton University](https://cil.csit.carleton.ca/), and with Katia Vega at [UC Davis](https://iolab.ucdavis.edu/).
 
-I love to watch sci-fi movies and photography 📷. In my free time I like to learn new technologies. Feel free to reach me out for projects and collaborations.
+I love watching sci-fi movies, traveling (I’ve visited over 20 countries!), crocheting, and swimming. Feel free to reach out if you’re interested in projects or collaborations!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Gabriela_Vega_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
