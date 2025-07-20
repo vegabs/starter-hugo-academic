@@ -36,7 +36,7 @@ url_project: ""
 publication_short: In *Eighth International Conference on Animal-Computer Interaction*
 url_source: ""
 url_video: ""
-title: "[To Appear] WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises"
+title: "WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises"
 doi: ""
 featured: true
 tags:
