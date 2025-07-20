@@ -5,11 +5,8 @@ avatar_filename: xjh1blob_400x400.jpg
 bio: My research interests include HCI, AI for wellbeing, Wearable Computing,
   IoT and AR.
 interests:
-  - HCI
-  - Wearables
-  - Sensing
-  - AR/VR
-  - Well-being
+  - wearables
+  - AI
   - IoT
 social:
   - icon: envelope
